@@ -48,6 +48,7 @@ This dashboard helps management take corrective actions, optimize training strat
 The project enables organizations to make data-driven decisions regarding employee development programs, improve training effectiveness, maximize ROI on learning investments, and create optimized strategies for long-term workforce growth and organizational success.
 
 ## Screenshots
-Show what the dashboard looks lile.
+Show what the dashboard looks like.
+
 Example: https://github.com/reshmad0814/Learning-Development-Analytics/blob/main/L%26D_Dashboard_1.png
-https://github.com/reshmad0814/Learning-Development-Analytics/blob/main/L%26D_Dashboard_2.png
+         https://github.com/reshmad0814/Learning-Development-Analytics/blob/main/L%26D_Dashboard_2.png
