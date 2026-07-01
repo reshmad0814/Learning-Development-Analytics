@@ -23,7 +23,6 @@ This dashboard focuses on identifying opportunities and threats within the learn
 
 The third dashboard is designed to support decision-making for addressing weaknesses and improving training processes. It includes advanced analytical techniques such as:
 
-* **Pareto Chart** to identify the most significant factors affecting training effectiveness.
 * **SWOT Analysis** to evaluate strengths, weaknesses, opportunities, and threats within organizational learning programs.
 * **Fishbone Diagram** to determine root causes of low engagement, ineffective training delivery, or performance gaps.
 
