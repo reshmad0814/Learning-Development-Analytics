@@ -49,4 +49,4 @@ The project enables organizations to make data-driven decisions regarding employ
 
 ## Screenshots
 Show what the dashboard looks lile.
-Example: 
+Example: https://github.com/reshmad0814/Learning-Development-Analytics/blob/main/L%26D_Dashboard_1.png
